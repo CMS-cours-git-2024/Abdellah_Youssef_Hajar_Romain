@@ -1,2 +1,4 @@
 print("Hello")
-print("P3")
+print("Hello")
+print("modification de P2")
+print("modification de P1")
